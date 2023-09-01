@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "ptumall.utils.JWTUtils",
+      "sourceType": "ptumall.utils.JWTUtils"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
